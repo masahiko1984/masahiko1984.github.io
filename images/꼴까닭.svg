@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47.44 82.67">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff151b;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-2 {
+        fill: #fff355;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: #000;
+      }
+
+      .cls-5 {
+        fill: #e90006;
+      }
+
+      .cls-6 {
+        font-size: 2px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: OTTtangsbudaejjigaeL-KSCpc-EUC-H, 'Ttangsbudaejjigae OTF';
+      }
+
+      .cls-7 {
+        font-size: 1.26px;
+      }
+
+      .cls-8 {
+        fill: #ff302a;
+        font-family: LOTTERIADDAG, 'LOTTERIA DDAG';
+        font-size: 10.04px;
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="cls-1" cx="23.83" cy="7.43" rx="3.17" ry="7.38" transform="translate(-1.11 6.31) rotate(-14.75)"/>
+    <ellipse class="cls-5" cx="26.44" cy="9.4" rx="5.04" ry="2.17" transform="translate(9.71 31.93) rotate(-72.98)"/>
+    <ellipse class="cls-3" cx="16.98" cy="61.41" rx="6.93" ry="3.63" transform="translate(-2.63 .79) rotate(-2.47)"/>
+    <ellipse class="cls-3" cx="31.16" cy="61.41" rx="3.63" ry="6.93" transform="translate(-31.53 89.9) rotate(-87.53)"/>
+    <path class="cls-3" d="M.35,41.12c-.62,11.08,1.93,15.94,3.68,16.04s3.52-6.38,3.98-14.47,2.11-14.88.37-14.98S.8,33.03.35,41.12Z"/>
+    <path class="cls-3" d="M47.09,41.12c.62,11.08-1.93,15.94-3.68,16.04s-3.52-6.38-3.98-14.47-2.11-14.88-.37-14.98,7.57,5.32,8.02,13.41Z"/>
+    <path class="cls-3" d="M38.47,23.47c0-.06,0-.12,0-.19-.2-7.88-6.77-14.19-14.65-14.09s-14.27,6.54-14.27,14.46c0,.07,0,.14,0,.21.03,2.29-.75,4.5-2.15,6.32-3.63,4.7-5.3,10.99-3.81,17.65,1.77,7.88,8.05,14.01,15.96,15.64,13.52,2.78,25.41-7.47,25.41-20.5,0-4.65-1.52-8.95-4.08-12.43-1.52-2.06-2.39-4.52-2.42-7.08Z"/>
+    <path class="cls-4" d="M16.29,21.72c-.28,0-.52.23-.52.52v1.72c0,.28.23.52.52.52s.52-.23.52-.52v-1.72c0-.28-.23-.52-.52-.52Z"/>
+    <path class="cls-4" d="M30.67,21.72c.28,0,.52.23.52.52v1.72c0,.28-.23.52-.52.52s-.52-.23-.52-.52v-1.72c0-.28.23-.52.52-.52Z"/>
+    <g>
+      <path class="cls-2" d="M26.08,26.75h1.48c.48,0,.68-.74.28-1.05-.83-.64-2.31-1.06-4-1.06s-3.17.42-4,1.06c-.4.31-.2,1.05.28,1.05h1.7"/>
+      <path class="cls-3" d="M23.95,28.33c1.18,0,2.13-.71,2.13-1.58h-4.26c0,.87.95,1.58,2.13,1.58Z"/>
+      <path class="cls-3" d="M21.82,26.75h4.26"/>
+    </g>
+    <circle class="cls-3" cx="23.84" cy="45.49" r="12.35"/>
+  </g>
+  <text class="cls-8" transform="translate(5.8 76.13)"><tspan x="0" y="0">-꼴까닭-</tspan></text>
+  <text class="cls-6" transform="translate(14.68 80.24)"><tspan x="0" y="0">숯불닭갈비 &amp; 오리구이</tspan></text>
+  <text class="cls-7" transform="translate(21.5 82.22)"><tspan x="0" y="0">SINCE 2024</tspan></text>
+</svg>
